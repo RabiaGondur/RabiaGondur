@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RabiaGondur
-- 👀 I’m interested in Machine Learning, specifically generative models and LVMs
-- 💞️ I’m open to collaborate on anything ML related!
+- 👀 I’m interested in generative models and GPs
 - 📫 You can connect with me through my [Linkedin](https://www.linkedin.com/in/rabiagondur)!
 - 🌱 If you would like to know more about my background, you can check out my [website](https://www.rabiagondur.com)
 
